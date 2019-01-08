@@ -1,4 +1,4 @@
-#Top 20 Movies
+# Top 20 Movies
 
 This is a very simple webpage using **React+Redux** for showing the top 20 movies of the moment.
 
