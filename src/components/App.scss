@@ -1,0 +1,29 @@
+#home{
+
+    h1{
+        width: 100%;
+        max-width: 985px;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 60px;
+        font-weight: 400;
+        margin-top: 1ex;
+        color: #805be7;
+        text-shadow: 0 0 10px #805be7;
+
+        .highlighted{
+            color: $green;
+            text-shadow: 0 0 10px $green;
+        }
+    }
+
+    .movie-list{
+        width: 100%;
+        max-width: 985px;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        margin: 30px 0 100px 0;
+    }
+}
